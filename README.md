@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/Clone/) `Amazon Clone`
+[OPEN IN BROWSER](https://smoriginals.github.io/Clone/) `Amazon Clone`
